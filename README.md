@@ -12,10 +12,18 @@
   	<img src="https://github-readme-stats.vercel.app/api?username=Jac-Zac&show_icons=true&theme=nord&show_icons=true&border=false"S
 </p>
 
----
+<hr>
+
+<h3 align="center">
+	More Informations about me
+</h3>
+
+<center><pre><code> id && whoami && uname -a</code></pre></center>
+
 
 - 🔭 I’m currently working on my repository but mainly I have a lot of school work
 - 🌱 I’m currently learning Assembly, better c++, and always learning about ML
+- 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).
 
-> I will do more things in the future
+> I try to keep up to date with big ML and DL papers and meanwhile learn more about how the word where we live in works
 

@@ -15,7 +15,7 @@
 <hr>
 
 <h3 align="center">
-	More Informations about me
+	More Informations about me 🔎
 </h3>
 
 <center><pre><code> id && whoami && uname -a</code></pre></center>

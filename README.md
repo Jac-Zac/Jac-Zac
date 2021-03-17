@@ -20,10 +20,15 @@
 
 <center><pre><code> id && whoami && uname -a</code></pre></center>
 
+<details>
+
+<summary><strong>Learn More about me 🧐 </strong></summary>
+
+> I try to keep up to date with big ML and DL papers and meanwhile learn more about how the word where we live in works
 
 - 🔭 I’m currently working on my repository but mainly I have a lot of school work
 - 🌱 I’m currently learning Assembly, better c++, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).
 
-> I try to keep up to date with big ML and DL papers and meanwhile learn more about how the word where we live in works
 
+</details>

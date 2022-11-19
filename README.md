@@ -4,7 +4,7 @@
 
 <p align="center">
 	<em>
-		I'm am a student who as started coding at school and now is carving to learn more. 
+		I'm am a university student who as started coding at school and now is carving to learn more.
 		As of now I have a few repo under my name, those are about my computers configurations and a trivial application of Deep Reinforcement Learning.
 	</em>
 	<br>
@@ -24,10 +24,11 @@
 
 <summary><strong>Learn More about me 🧐 </strong></summary>
 
-> I try to keep up to date with big ML and DL papers and meanwhile learn more about how the word where we live in works
+> I try to keep up to date with big ML and DL papers and meanwhile learn more everyday
 
-- 🔭 I’m currently working on my repository but mainly I have a lot of school work
-- 🌱 I’m currently learning Assembly, better c++, and always learning about ML
+- 🤖 I’m currently at the second year of <a href="https://ai.units.it" style="color: #a3be8c">Artificial Intelligence</a> at the [```University of Trieste```](https://www.units.it/en)
+- 🔭 I’m currently working on my repository but I sped most of my time at university studing
+- 🌱 I’m currently learning a bit Assembly, better c++ and python, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).
 
 

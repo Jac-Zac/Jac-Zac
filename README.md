@@ -31,5 +31,11 @@
 - 🌱 I’m currently learning a bit Assembly, better c++ and python, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).
 
+<p align="left">
+  <strong>🪴 Things I like such as Editor and Languages:</strong>
+</p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,raspberrypi,py,bash,cpp,c++&theme=dark" />
+</p>
 </details>

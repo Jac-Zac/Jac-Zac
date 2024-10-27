@@ -9,7 +9,7 @@
 	</em>
 	<br>
 	<br>
-  	<img src="https://github-readme-stats.vercel.app/api?username=Jac-Zac&show_icons=true&theme=nord&show_icons=true&hide_border=true"
+  	<img src="https://github-readme-stats.vercel.app/api?username=Jac-Zac&show_icons=true&theme=nord&show_icons=true&hide_border=true&rank_icon=github"
 </p>
 
 <hr>

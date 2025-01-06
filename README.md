@@ -23,13 +23,21 @@
 <details>
 
 <summary><strong>Learn More about me 🧐 </strong></summary>
-
 > I try to keep up to date with big ML and DL papers and meanwhile learn more everyday
 
 - 🤖 I’m currently at the second year of <a href="https://ai.units.it" style="color: #a3be8c">Artificial Intelligence</a> at the [```University of Trieste```](https://www.units.it/en)
 - 🔭 I spend most of my at university studing and learning new things.
 - 🌱 I’m currently learning a bit Assembly, better c++ and python, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).
+
+<p align="center">
+	<em>
+		I try to always be occupied with something. I guess this kind of shows it...
+	</em>
+	<br>
+	<br>
+  	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jac-Zac&theme=nord&hide_border=true"
+</p>
 
 <p align="left">
   <strong>🪴 Things I like such as Editor and Languages:</strong>

@@ -25,7 +25,7 @@
 <summary><strong>Learn More about me 🧐 </strong></summary>
 > I try to keep up to date with big ML and DL papers and meanwhile learn more everyday
 
-- 🤖 I’m currently at the second year of <a href="https://ai.units.it" style="color: #a3be8c">Artificial Intelligence</a> at the [```University of Trieste```](https://www.units.it/en)
+- 🤖 I’m currently doing a master in <a href="https://ai.units.it" style="color: #a3be8c">Artificial Intelligence</a> at the [```University of Trieste```](https://www.units.it/en)
 - 🔭 I spend most of my at university studing and learning new things.
 - 🌱 I’m currently learning a bit Assembly, better c++ and python, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physic (if you ask me something that I can't answer that's great. It means I will learn 📚).

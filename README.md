@@ -44,6 +44,6 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,raspberrypi,pytorch,py,bash,cpp,c++&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=neovim,raspberrypi,pytorch,py,bash,cpp,c&theme=dark" />
 </p>
 </details>

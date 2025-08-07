@@ -5,7 +5,7 @@
 <p align="center">
 	<em>
 		I'm am a university student who as started coding at school and now is carving to learn more.
-		As of now I have a few repo about my configurations, and some little project or things that I fixed just because I wanted to have them.
+		As of now I have a few repo on different projects both for personal intrest adn university.
 	</em>
 	<br>
 	<br>

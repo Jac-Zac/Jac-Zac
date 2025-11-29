@@ -27,7 +27,7 @@
 
 - 🤖 I'm currently doing a master in [Artificial Intelligence](https://ai.units.it) at the [University of Trieste](https://www.units.it/en)
 - 🔭 I spend most of my time at university studying and learning new things.
-- 🌱 I'm currently learning a bit of Assembly, better C++ and Python, and always learning about ML
+- 🌱 I'm currently learning a bit of Assembly, CUDA and Python, and always learning about ML
 - 💬 Ask me about any tech related stuff or about physics (if you ask me something that I can't answer that's great. It means I will learn 📚).
 
 <p align="center">

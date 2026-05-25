@@ -4,8 +4,8 @@
 
 <p align="center">
 	<em>
-		I'm a university student who started coding at school and is now eager to learn more.
-		Currently, I have several repos covering different projects for both personal interest and university coursework.
+		I'm a Master's student in Data Science & AI with a focus on deep learning and mechanistic interpretability.
+		I have several repos covering different projects for both personal interest and research.
 	</em>
 	<br>
 </p>
@@ -23,10 +23,10 @@
 <summary><strong>Learn More About Me 🧐 </strong></summary>
 > I try to keep up-to-date with major ML and DL papers while learning more every day.
 
-- 🤖 I'm currently doing a master’s in artificial intelligence at the [University of Trieste](https://www.units.it/en).
+- 🤖 I'm currently doing a master's in Data Science & AI at the [University of Trieste](https://www.units.it/en).
 - 🔭 I spend most of my time studying and learning new things (currently focused on mech-interp).
 - 🌱 I have recently worked with CUDA on [self-attention](https://github.com/Jac-Zac/Self_Attention_Kernels) (building it toward a FlashAttention-style implementation).
-- 💬 Ask me about anything tech-related / ML / DL (if you ask me something I can't answer, that's great — it means I’ll learn 📚).
+- 💬 Ask me about anything tech-related / ML / DL (if you ask me something I can't answer, that's great — it means I'll learn 📚).
 
 <p align="center">
 	<em>
@@ -42,6 +42,6 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=neovim,raspberrypi,pytorch,py,bash,cpp,c&theme=dark" alt="Skills: Neovim, Raspberry Pi, PyTorch, Python, Bash, C++, C" />
+  <img src="https://skillicons.dev/icons?i=neovim,pytorch,py,bash,c&theme=dark" alt="Skills: Neovim, PyTorch, Python, Bash, C" />
 </p>
 </details>

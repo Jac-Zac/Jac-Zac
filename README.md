@@ -6,6 +6,7 @@
 	<em>
 		I'm a Master's student in Data Science & AI with a focus on deep learning and mechanistic interpretability.
 		I have several repos covering different projects for both personal interest and research.
+		More about me on my <a href="https://jac-zac.github.io">website</a>.
 	</em>
 	<br>
 </p>
@@ -24,9 +25,11 @@
 > I try to keep up-to-date with major ML and DL papers while learning more every day.
 
 - 🤖 I'm currently doing a master's in Data Science & AI at the [University of Trieste](https://www.units.it/en).
-- 🔭 I spend most of my time studying and learning new things (currently focused on mech-interp).
-- 🌱 I have recently worked with CUDA on [self-attention](https://github.com/Jac-Zac/Self_Attention_Kernels) (building it toward a FlashAttention-style implementation).
+- 🧠 Former [SPAR](https://sparai.org) Research Fellow (Spring 2026) — I worked on implicit personalization, probing the [persona vectors](https://github.com/Jac-Zac/persona-vectors) LLMs build of their users.
+- 🔭 Currently working on mechanistic interpretability of Mixture-of-Experts models (expert specialization in OLMoE and GPT-OSS).
+- 🌱 I've also written hand-optimized [self-attention kernels](https://github.com/Jac-Zac/Self_Attention_Kernels) in CUDA, OpenMP, and SIMD.
 - 💬 Ask me about anything tech-related / ML / DL (if you ask me something I can't answer, that's great — it means I'll learn 📚).
+- 🤝 I'm open to collaborating on research in deep learning / mech interp — reach me at [jaczac2002@gmail.com](mailto:jaczac2002@gmail.com).
 
 <p align="center">
 	<em>
